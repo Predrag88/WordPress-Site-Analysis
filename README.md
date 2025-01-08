@@ -1,7 +1,6 @@
 # Privacy Policy for WordPress Themes, Plugins and SEO Extension
 
-Last updated: [Current Date]
-
+Last updated: 8.Jan.2025
 ## Overview
 This privacy policy describes how our WordPress Analysis Extension ("Extension") collects, uses, and handles your information.
 
